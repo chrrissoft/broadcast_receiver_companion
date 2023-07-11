@@ -9,4 +9,4 @@ As developers it is important to know how to receive emotions from a specific ap
 🆗 Register or unregister a receiver.<br>
 🆗 Change the registration context of a receiver to activity context or application context.<br>
 
-See (Broadcast Receiver App)[https://github.com/chrrissoft/broadcast_receiver_app] for more information 💙.
+See [Broadcast Receiver App](https://github.com/chrrissoft/broadcast_receiver_app) for more information 💙.
